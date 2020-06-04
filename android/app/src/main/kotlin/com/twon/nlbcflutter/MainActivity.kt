@@ -1,0 +1,6 @@
+package com.twon.nlbcflutter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
